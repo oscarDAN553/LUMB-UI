@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-
 import 'package:lumb_ui/widgets/widgets.dart';
+
+//import 'package:lumb_ui/widgets/widgets.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({Key? key}) : super(key: key);
@@ -18,16 +19,7 @@ class HomePage extends StatelessWidget {
             ],  
         ),
          
-         body: GridViewHome(),
-       /* body: Center(
-          child: Column(
-            children: [
-              CategoriesSlider(),
-              GridViewHome()
-            ],
-          ),
-          ),
-          */
+         body: GridViewHome()
 
         );
   }

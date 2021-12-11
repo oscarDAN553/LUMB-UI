@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'package:lumb_ui/pages/home_page.dart';
 import 'package:lumb_ui/pages/product_page.dart';
+import 'package:lumb_ui/pages/sliver_grid_delegate.dart';
 import 'package:lumb_ui/theme/app_theme.dart';
  
 void main() => runApp(MyApp());
@@ -17,6 +18,7 @@ class MyApp extends StatelessWidget {
       routes: {
         'home':(_)=> HomePage(),
         'details':(_)=> ProductPage(),
+        'sliver':(_)=> TrySliver(),
       },
       //home: HomePage()
       //HomePage()

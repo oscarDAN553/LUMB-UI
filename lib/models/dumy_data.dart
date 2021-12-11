@@ -87,4 +87,76 @@ const imageList = [
     id: 'id-019',
     imageUrl: 'https://picsum.photos/seed/image019/500/800',
   ),
+  DumyData(
+    id: 'id-002',
+    imageUrl: 'https://picsum.photos/seed/image020/500/800',
+  ),
+  DumyData(
+    id: 'id-003',
+    imageUrl: 'https://picsum.photos/seed/image023/500/300',
+  ),
+  DumyData(
+    id: 'id-004',
+    imageUrl: 'https://picsum.photos/seed/image024/500/900',
+  ),
+  DumyData(
+    id: 'id-005',
+    imageUrl: 'https://picsum.photos/seed/image025/500/600',
+  ),
+  DumyData(
+    id: 'id-006',
+    imageUrl: 'https://picsum.photos/seed/image026/500/500',
+  ),
+  DumyData(
+    id: 'id-007',
+    imageUrl: 'https://picsum.photos/seed/image027/500/400',
+  ),
+  DumyData(
+    id: 'id-008',
+    imageUrl: 'https://picsum.photos/seed/image028/500/700',
+  ),
+  DumyData(
+    id: 'id-009',
+    imageUrl: 'https://picsum.photos/seed/image029/500/600',
+  ),
+  DumyData(
+    id: 'id-010',
+    imageUrl: 'https://picsum.photos/seed/image030/500/900',
+  ),
+  DumyData(
+    id: 'id-011',
+    imageUrl: 'https://picsum.photos/seed/image031/500/900',
+  ),
+  DumyData(
+    id: 'id-012',
+    imageUrl: 'https://picsum.photos/seed/image032/500/700',
+  ),
+  DumyData(
+    id: 'id-013',
+    imageUrl: 'https://picsum.photos/seed/image033/500/700',
+  ),
+  DumyData(
+    id: 'id-014',
+    imageUrl: 'https://picsum.photos/seed/image034/500/800',
+  ),
+  DumyData(
+    id: 'id-015',
+    imageUrl: 'https://picsum.photos/seed/image035/500/500',
+  ),
+  DumyData(
+    id: 'id-016',
+    imageUrl: 'https://picsum.photos/seed/image036/500/700',
+  ),
+  DumyData(
+    id: 'id-017',
+    imageUrl: 'https://picsum.photos/seed/image037/500/600',
+  ),
+  DumyData(
+    id: 'id-018',
+    imageUrl: 'https://picsum.photos/seed/image038/500/900',
+  ),
+  DumyData(
+    id: 'id-019',
+    imageUrl: 'https://picsum.photos/seed/image039/220/500',
+  )
 ];
